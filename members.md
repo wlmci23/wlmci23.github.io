@@ -6,7 +6,7 @@ permalink: /members/
 
 List of WLMCI '23 CS Nerds (In order of CS Skill):
 * Leyang Zou
-    * Handle: BattleMage_
+    * Handle: BattleMage0231
 * Paul Lee
     * Handle: hillcrestpaul0719
 * Peter Ye
