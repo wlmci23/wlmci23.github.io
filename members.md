@@ -4,7 +4,7 @@ title: Members
 permalink: /members/
 ---
 
-List of WLMCI '23 CS Nerds (In alpha order of GitHub handles):
+List of WLMCI '23 CS Nerds (In order of CS Skill):
 * Leyang Zou
     * Handle: BattleMage_
 * Paul Lee
