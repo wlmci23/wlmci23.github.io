@@ -4,7 +4,7 @@ title: Members
 permalink: /members/
 ---
 
-List of WLMCI '23 CS Nerds (in reverse reverse order of CS Skill):
+List of WLMCI '23 CS Nerds (In whatever order):
 * Leyang Zou ([BattleMage0231](https://github.com/BattleMage0231))
 * Paul Lee ([hillcrestpaul0719](https://github.com/hillcrestpaul0719))
 * Peter Ye ([yaxollum](https://github.com/yaxollum))
