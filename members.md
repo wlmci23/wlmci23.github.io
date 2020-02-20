@@ -4,7 +4,7 @@ title: Members
 permalink: /members/
 ---
 
-List of WLMCI '23 CS Nerds (In whatever order):
+List of WLMCI '23 CS Nerds (in order of CS skill):
 * Leyang Zou ([BattleMage0231](https://github.com/BattleMage0231))
 * Patrick Lin ([ApocalypseCalculator](https://github.com/ApocalypseCalculator))
 * Paul Lee ([hillcrestpaul0719](https://github.com/hillcrestpaul0719))
